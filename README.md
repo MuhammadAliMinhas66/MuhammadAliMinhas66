@@ -1,8 +1,7 @@
 # Hi there, I'm Muhammad Ali Minhas! 👋
-[![Linkedin: muhammadaliminhas](https://img.shields.io/badge/-muhammadaliminhas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadaliminhas/)](https://www.linkedin.com/in/muhammadaliminhas/)
-[![GitHub Muhammad Ali Minhas](https://img.shields.io/github/followers/muhammadaliminhas?label=follow&style=social)](https://github.com/muhammadaliminhas)
+[![Linkedin: muhammadaliminhas](https://www.linkedin.com/in/muhammad-ali-minhas-53481230b/)
 
-I'm a passionate MERN stack developer from [your location], specializing in building robust web applications. 
+I'm a passionate MERN stack developer from Pakistan, specializing in building robust web applications. 
 
 ## 💼 Skills
 - Frontend: 
@@ -25,6 +24,6 @@ I'm a passionate MERN stack developer from [your location], specializing in buil
 
 ## 💬 Get in Touch
 - Email: minhasvirtual@gmail.com
-- LinkedIn: [muhammadaliminhas](https://www.linkedin.com/in/muhammadaliminhas/)
+- LinkedIn: [muhammadaliminhas](https://www.linkedin.com/in/muhammad-ali-minhas-53481230b/)
 
 Feel free to reach out if you want to discuss collaboration, have any questions, or just want to connect!
