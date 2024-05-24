@@ -1,5 +1,5 @@
 # Hi there, I'm Muhammad Ali Minhas! 👋
-[![Linkedin: muhammadaliminhas](https://www.linkedin.com/in/muhammad-ali-minhas-53481230b/)
+[Linkedin: muhammadaliminhas](https://www.linkedin.com/in/muhammad-ali-minhas-53481230b/)
 
 I'm a passionate MERN stack developer from Pakistan, specializing in building robust web applications. 
 
