@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Next.js and GraphQL**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
-- 📫 How to reach me **muhammadali.minhas@example.com**
+- 📫 How to reach me **minhasvirtual@gmail.com**
 - ⚡ Fun fact **I love coding challenges and solving algorithmic problems**
 
 ---
@@ -40,8 +40,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas&show_icons=true&theme=radical" alt="Muhammad Ali Minhas GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliMinhas&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas66&show_icons=true&theme=radical" alt="Muhammad Ali Minhas GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliMinhas66&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
