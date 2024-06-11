@@ -13,7 +13,7 @@
 ### About Me
 
 - 🔭 I’m currently working on **MERN Stack projects**
-- 🌱 I’m currently learning **Next.js and GraphQL**
+- 🌱 I’m currently learning **Next JS**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
 - 📫 How to reach me **minhasvirtual@gmail.com**
