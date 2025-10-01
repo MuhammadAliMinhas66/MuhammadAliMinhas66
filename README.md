@@ -1,22 +1,38 @@
-<!-- Fancy Gamer Style Header -->
+<!-- Animated Starting Text -->
 <h1 align="center">
-<pre>
-███████╗██╗      █████╗ ██╗         ███╗   ███╗██╗███╗   ██╗██╗  ██╗ █████╗ ███████╗
-██╔════╝██║     ██╔══██╗██║         ████╗ ████║██║████╗  ██║██║ ██╔╝██╔══██╗██╔════╝
-█████╗  ██║     ███████║██║         ██╔████╔██║██║██╔██╗ ██║█████╔╝ ███████║███████╗
-██╔══╝  ██║     ██╔══██║██║         ██║╚██╔╝██║██║██║╚██╗██║██╔═██╗ ██╔══██║╚════██║
-██║     ███████╗██║  ██║███████╗    ██║ ╚═╝ ██║██║██║ ╚████║██║  ██╗██║  ██║███████║
-╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-</pre>
+  <span style="font-family: 'Courier New', monospace; font-size: 2.2em;">
+    <span class="typewriter">FULL STACK DEV in progress | Connect with me!</span>
+  </span>
 </h1>
+
+<style>
+.typewriter {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 0.15em solid #c1121f;
+  animation: typing 3s steps(40, end), blink 0.75s step-end infinite;
+  color: #003049;
+  font-weight: bold;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+</style>
 
 ---
 
 ## About Me
-- 🚀 Full Stack Engineer (React, Node.js, Firebase, MongoDB, Supabase, etc.)
-- 🎯 Currently exploring **System Design** & **Cloud Architectures**
-- 💡 Passionate about **scalable apps** & **fun side projects**
-- 🕹 Gamer by night, Coder by day
+- 🚀 Full Stack Engineer (React, Node.js, Firebase, MongoDB, Supabase, etc.)  
+- 🎯 Currently exploring **System Design** & **Cloud Architectures**  
+- 💡 Passionate about **scalable apps** & **fun side projects**  
+- 🕹 Gamer by night, Coder by day  
 
 ---
 
@@ -24,24 +40,23 @@
 
 <div align="center">
 
-<!-- Same size boxes -->
-<a href="https://github.com/MinhasAli">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MinhasAli&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<a href="https://github.com/MuhammadAliMinhas">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/MinhasAli">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhasAli&layout=compact&theme=radical&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/MinhasAli">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MinhasAli&theme=radical&hide_border=true" />
+<a href="https://github.com/MuhammadAliMinhas">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliMinhas&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 <br>
 
-<a href="https://github.com/MinhasAli">
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=MinhasAli&theme=redical&hide_border=true" />
+<a href="https://github.com/MuhammadAliMinhas">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=radical&hide_border=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/MuhammadAliMinhas">
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliMinhas&theme=radical&hide_border=true" />
 </a>
 
 </div>
@@ -49,25 +64,17 @@
 ---
 
 ## Tech Stack
-- Frontend: **React.js, Next.js, Tailwind CSS, Redux**
-- Backend: **Node.js, Express, Firebase, Supabase**
-- Database: **MongoDB, Firestore, PostgreSQL**
-- Tools: **Git, Docker, Vite, VS Code**
-
----
-
-## Fun Zone 🎭
-> “When you finally fix the bug at 3 AM but break the whole project in the process…”
-
-<p align="center">
-  <img src="https://i.imgflip.com/30zz5g.jpg" height="300"/>
-</p>
+- Frontend: **React.js, Next.js, Tailwind CSS, Redux**  
+- Backend: **Node.js, Express, Firebase, Supabase**  
+- Database: **MongoDB, Firestore, PostgreSQL**  
+- Tools: **Git, Docker, Vite, VS Code**  
 
 ---
 
 ## Connect with Me
-- GitHub: [@MinhasAli](https://github.com/MinhasAli)  
+- GitHub: [Muhammad Ali Minhas](https://github.com/MuhammadAliMinhas)  
 - LinkedIn: [Muhammad Ali Minhas](https://linkedin.com/in/your-link)  
+- Email: [Send me a mail](mailto:your-email@gmail.com)  
 - Medium: [My Articles](https://medium.com/@your-profile)  
 
 ---
