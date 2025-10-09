@@ -5,9 +5,7 @@
 
 <!-- ===================== PROFILE IMAGE WITH ANIMATED BORDER ===================== -->
 <div align="center">
-  <a href="https://github.com/MuhammadAliMinhas">
-    <img src="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" width="200" height="200" style="border-radius: 50%; border: 5px solid #669bbc; box-shadow: 0 0 25px #669bbc, 0 0 50px #4FC3F7, 0 0 75px #89CFF0; animation: rotateBorder 3s linear infinite;" alt="Muhammad Ali Minhas"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" width="200" style="border-radius: 50%; border: 4px solid #669bbc; box-shadow: 0 0 20px #669bbc, 0 0 40px #003049, 0 0 60px #669bbc;" alt="Muhammad Ali Minhas"/>
 </div>
 
 <br/>
@@ -106,11 +104,6 @@ const aliMinhas = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=tokyonight&hide_border=true&background=0d1117&stroke=669bbc&ring=669bbc&fire=669bbc&currStreakLabel=fdf0d5" alt="Streak Stats"/>
 </div>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliMinhas&bg_color=0d1117&color=669bbc&line=669bbc&point=fdf0d5&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 <!-- ===================== TROPHIES ===================== -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAliMinhas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
@@ -146,17 +139,6 @@ const aliMinhas = {
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</div>
-
-<br/>
-
-<!-- Programming Memes -->
-<div align="center">
-  <img src="https://i.redd.it/hprc2w86u0b91.jpg" width="450px" alt="Programming Meme"/>
-  <br/><br/>
-  <img src="https://i.redd.it/gvvzje92nt591.jpg" width="450px" alt="Dev Meme"/>
-  <br/><br/>
-  <img src="https://preview.redd.it/tx2oovy2e7e91.jpg?width=640&crop=smart&auto=webp&s=8b3d4e1c3c4c4d71a24e3ff6df8e56c2f8c48f7d" width="450px" alt="Coding Meme"/>
 </div>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
