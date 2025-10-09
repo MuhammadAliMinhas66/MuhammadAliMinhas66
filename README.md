@@ -1,10 +1,3 @@
-<!-- ===================== COPYRIGHT NOTICE ===================== -->
-<div align="center">
-  <h3>⚠️ COPYRIGHT NOTICE ⚠️</h3>
-  <p><strong>© 2024 Muhammad Ali Minhas. All Rights Reserved.</strong></p>
-  <p>Unauthorized copying, distribution, or use of this code is prohibited.</p>
-  <hr width="50%">
-</div>
 
 <!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
