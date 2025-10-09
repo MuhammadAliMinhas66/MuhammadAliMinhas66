@@ -5,7 +5,36 @@
 
 <!-- ===================== PROFILE IMAGE WITH ANIMATED BORDER ===================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" width="200" style="border-radius: 50%; border: 4px solid #669bbc; box-shadow: 0 0 20px #669bbc, 0 0 40px #003049, 0 0 60px #669bbc;" alt="Muhammad Ali Minhas"/>
+  <div style="position: relative; width: 220px; height: 220px; display: inline-block;">
+    <svg width="220" height="220" style="position: absolute; top: 0; left: 0; z-index: 1; pointer-events: none;">
+      <defs>
+        <linearGradient id="borderGradient">
+          <stop offset="0%" stop-color="#669bbc" />
+          <stop offset="50%" stop-color="#89CFF0" />
+          <stop offset="100%" stop-color="#4FC3F7" />
+        </linearGradient>
+        <filter id="glow">
+          <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+      <circle cx="110" cy="110" r="105" fill="none" stroke="url(#borderGradient)" stroke-width="5" filter="url(#glow)" stroke-dasharray="330 66" transform="rotate(0 110 110)">
+        <animateTransform
+          attributeName="transform"
+          attributeType="XML"
+          type="rotate"
+          from="0 110 110"
+          to="360 110 110"
+          dur="7s"
+          repeatCount="indefinite"/>
+      </circle>
+    </svg>
+    <img src="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" width="200" height="200" style="border-radius: 50%; position: relative; z-index: 0; display: block; margin: 10px;" alt="Muhammad Ali Minhas"/>
+    <div style="position: absolute; top: 10px; left: 10px; width: 200px; height: 200px; border-radius: 50%; background: radial-gradient(circle, rgba(102,155,188,0.3), rgba(0,48,73,0.5)); filter: blur(25px); z-index: -1;"></div>
+  </div>
 </div>
 
 <br/>
@@ -56,7 +85,7 @@ const aliMinhas = {
   },
   currentFocus: "Building interactive full-stack applications with smooth animations",
   funFact: "I can make divs dance better than I can 💃",
-  currentlyListeningTo: "Listening to Rival 🎵",
+  currentlyListeningTo: "Lofi beats while coding 🎵",
   lifePhilosophy: "Code it until it works, then never touch it again 😎"
 };
 ```
@@ -104,6 +133,11 @@ const aliMinhas = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=tokyonight&hide_border=true&background=0d1117&stroke=669bbc&ring=669bbc&fire=669bbc&currStreakLabel=fdf0d5" alt="Streak Stats"/>
 </div>
 
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliMinhas&bg_color=0d1117&color=669bbc&line=669bbc&point=fdf0d5&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
 <!-- ===================== TROPHIES ===================== -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAliMinhas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
@@ -139,6 +173,17 @@ const aliMinhas = {
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</div>
+
+<br/>
+
+<!-- Programming Memes -->
+<div align="center">
+  <img src="https://www.testbytes.net/wp-content/uploads/2019/06/programming-memes.png" width="400px" alt="Programming Meme"/>
+  <br/><br/>
+  <img src="https://i.redd.it/mzdpk1prybn31.jpg" width="400px" alt="Dev Meme"/>
+  <br/><br/>
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*xvhKSZv4hlI0VLjcvDN_sw.jpeg" width="400px" alt="Coding Meme"/>
 </div>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
