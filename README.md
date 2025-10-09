@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:669bbc,50:003049,100:669bbc&height=200&section=header&text=Muhammad%20Ali%20Minhas&fontSize=50&fontColor=fdf0d5&animation=twinkling&fontAlignY=35&fontAlign=50" width="100%"/>
 </div>
 
+<!-- ===================== PROFILE IMAGE WITH ANIMATED BORDER ===================== -->
+<div align="center">
+  <img src="https://github.com/MuhammadAliMinhas/MuhammadAliMinhas/blob/main/profile.jpg" width="200" style="border-radius: 50%; border: 4px solid #669bbc; box-shadow: 0 0 20px #669bbc, 0 0 40px #003049, 0 0 60px #669bbc;" alt="Muhammad Ali Minhas"/>
+</div>
+
+<br/>
+
 <!-- ===================== TYPING ANIMATION ===================== -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+FULL+STACK+DEVELOPER+%E2%9A%A1;BUILD.+INNOVATE.+DEPLOY.+%F0%9F%94%A5" alt="Typing SVG" />
@@ -10,7 +17,7 @@
 
 <!-- ===================== SUBTITLE ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=FDF0D5&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Crafting+Seamless+User+Experiences;%E2%9C%A8+Animation+Wizard+with+GSAP+%26+Framer;%F0%9F%94%A5+Building+Scalable+Full+Stack+Apps;%F0%9F%92%AA+Passionate+about+Clean+Code" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=FDF0D5&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+Crafting+Seamless+User+Experiences;%E2%9C%A8+Animation+Wizard+with+GSAP+%26+Framer;%F0%9F%94%A5+Building+React+apps+faster+than+your+coffee+gets+cold;%F0%9F%8E%AF+Turning+caffeine+into+code+since+forever;%F0%9F%92%AA+Making+pixels+dance+and+APIs+cry;%F0%9F%91%80+My+code+works...+I+have+no+idea+why;%E2%9C%A8+404+Error:+Social+Life+Not+Found" alt="Subtitle" />
 </p>
 
 <!-- ===================== ANIMATED DIVIDER ===================== -->
@@ -49,7 +56,8 @@ const aliMinhas = {
   },
   currentFocus: "Building interactive full-stack applications with smooth animations",
   funFact: "I can make divs dance better than I can 💃",
-  currentlyListeningTo: "Lofi beats while coding 🎵"
+  currentlyListeningTo: "Lofi beats while coding 🎵",
+  lifePhilosophy: "Code it until it works, then never touch it again 😎"
 };
 ```
 
@@ -60,12 +68,12 @@ const aliMinhas = {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark&perline=6" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=3" />
 </p>
 
 ### Animation Libraries
@@ -77,7 +85,7 @@ const aliMinhas = {
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
 </p>
 
 </div>
@@ -93,7 +101,12 @@ const aliMinhas = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadAliMinhas&theme=tokyonight&hide_border=true&background=0d1117&stroke=669bbc&ring=669bbc&fire=669bbc&currStreakLabel=fdf0d5" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=tokyonight&hide_border=true&background=0d1117&stroke=669bbc&ring=669bbc&fire=669bbc&currStreakLabel=fdf0d5" alt="Streak Stats"/>
+</div>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliMinhas&bg_color=0d1117&color=669bbc&line=669bbc&point=fdf0d5&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <!-- ===================== TROPHIES ===================== -->
@@ -126,7 +139,7 @@ const aliMinhas = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
 </div>
 
-<!-- ===================== DEV HUMOR - MEMES ===================== -->
+<!-- ===================== DEV HUMOR ===================== -->
 ## 😂 Dev Humor
 
 <div align="center">
@@ -135,8 +148,13 @@ const aliMinhas = {
 
 <br/>
 
+<!-- Programming Memes -->
 <div align="center">
-  <img src="https://random-memer.herokuapp.com/" width="512px" alt="Meme"/>
+  <img src="https://www.testbytes.net/wp-content/uploads/2019/06/programming-memes.png" width="400px" alt="Programming Meme"/>
+  <br/><br/>
+  <img src="https://i.redd.it/mzdpk1prybn31.jpg" width="400px" alt="Dev Meme"/>
+  <br/><br/>
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*xvhKSZv4hlI0VLjcvDN_sw.jpeg" width="400px" alt="Coding Meme"/>
 </div>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
@@ -181,5 +199,5 @@ const aliMinhas = {
 
 <!-- Final typing animation with Orbitron font -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Coded+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;%F0%9F%92%BB+Every+line+tells+a+story;%F0%9F%94%A5+Let's+connect+and+create+magic!;%E2%AD%90+Keep+coding%2C+keep+creating!" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Coded+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;%F0%9F%92%BB+Every+line+tells+a+story;%F0%9F%94%A5+Let's+connect+and+create+magic!;%E2%AD%90+Keep+coding%2C+keep+creating!;%F0%9F%91%80+99+little+bugs+in+the+code...;%F0%9F%8E%AF+Stack+Overflow+is+my+best+friend!" alt="Footer Animation" />
 </h3>
