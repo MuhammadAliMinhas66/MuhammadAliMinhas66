@@ -115,13 +115,6 @@ const aliMinhas = {
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAliMinhas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=669bbc&text_color=fdf0d5" alt="Wakatime Stats"/>
 </div>
 
-<!-- ===================== 3D CONTRIBUTION ===================== -->
-## 🎮 3D Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliMinhas&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=669bbc&line=669bbc&point=fdf0d5&area=true&area_color=669bbc" alt="Contribution Graph"/>
-</div>
-
 <!-- ===================== RANDOM QUOTE ===================== -->
 ## 💬 Quote of the Day
 
