@@ -1,26 +1,9 @@
+
+
 <!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:669bbc,50:003049,100:669bbc&height=200&section=header&text=Muhammad%20Ali%20Minhas&fontSize=50&fontColor=fdf0d5&animation=twinkling&fontAlignY=35&fontAlign=50" width="100%"/>
 </div>
-
-<!-- ===================== PROFILE IMAGE WITH ANIMATED BORDER ===================== -->
-<div align="center">
-  <svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <radialGradient id="glow" r="0.5" cx="50%" cy="50%">
-        <stop offset="0%" stop-color="#669bbc" stop-opacity="1">
-          <animate attributeName="stop-color" values="#669bbc;#003049;#669bbc" dur="3s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#003049" stop-opacity="0">
-          <animate attributeName="stop-color" values="#003049;#669bbc;#003049" dur="3s" repeatCount="indefinite" />
-        </stop>
-      </radialGradient>
-    </defs>
-    <circle cx="110" cy="110" r="100" fill="url(#glow)" />
-    <image href="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" x="10" y="10" height="200px" width="200px" clip-path="circle(50%)" />
-  </svg>
-</div>
-
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <h1 align="center">
@@ -38,7 +21,7 @@
 <!-- ===================== PROFILE VIEWS & BADGES ===================== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadAliMinhas&label=Profile%20Views&color=669bbc&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MuhammadAliMinhas?label=Followers&style=for-the-badge&color=669bbc&labelColor=003049" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/MuhammadAliMinhas?style=for-the-badge&color=669bbc&labelColor=003049" alt="Followers" />
   <img src="https://img.shields.io/github/stars/MuhammadAliMinhas?label=Stars&style=for-the-badge&color=fdf0d5&labelColor=003049" alt="Stars" />
 </div>
 
@@ -197,3 +180,22 @@ const aliMinhas = {
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Coded+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;%F0%9F%92%BB+Every+line+tells+a+story;%F0%9F%94%A5+Let's+connect+and+create+magic!;%E2%AD%90+Keep+coding%2C+keep+creating!;%F0%9F%91%80+99+little+bugs+in+the+code...;%F0%9F%8E%AF+Stack+Overflow+is+my+best+friend!" alt="Footer Animation" />
 </h3>
+
+<!-- ===================== COPYRIGHT FOOTER ===================== -->
+<div align="center">
+  <br/>
+  <hr width="50%">
+  <p><strong>© 2024 Muhammad Ali Minhas. All Rights Reserved.</strong></p>
+  <p><em>Unauthorized copying, distribution, or use of this code is prohibited.</em></p>
+  <p>📧 Contact: minhasvirtual@gmail.com | 🌐 Portfolio: <a href="https://spectarmartz.netlify.app/">spectarmartz.netlify.app</a></p>
+</div>
+
+<!-- Hidden fingerprint for copyright proof -->
+<!-- 
+  README.md by Muhammad Ali Minhas
+  Created: October 2024
+  Original Author: Muhammad Ali Minhas
+  Contact: minhasvirtual@gmail.com
+  Unique ID: MAM-2024-README-ORIGINAL-v1.0
+  This is my original work. If you found this identical elsewhere, it was copied without permission.
+-->
