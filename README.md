@@ -5,7 +5,7 @@
 
 <!-- ===================== PROFILE IMAGE WITH ANIMATED BORDER ===================== -->
 <div align="center">
-  <img src="https://github.com/MuhammadAliMinhas/MuhammadAliMinhas/blob/main/profile.jpg" width="200" style="border-radius: 50%; border: 4px solid #669bbc; box-shadow: 0 0 20px #669bbc, 0 0 40px #003049, 0 0 60px #669bbc;" alt="Muhammad Ali Minhas"/>
+  <img src="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" width="200" style="border-radius: 50%; border: 4px solid #669bbc; box-shadow: 0 0 20px #669bbc, 0 0 40px #003049, 0 0 60px #669bbc;" alt="Muhammad Ali Minhas"/>
 </div>
 
 <br/>
@@ -56,7 +56,7 @@ const aliMinhas = {
   },
   currentFocus: "Building interactive full-stack applications with smooth animations",
   funFact: "I can make divs dance better than I can 💃",
-  currentlyListeningTo: "Lofi beats while coding 🎵",
+  currentlyListeningTo: "Listening to Rival 🎵",
   lifePhilosophy: "Code it until it works, then never touch it again 😎"
 };
 ```
@@ -104,11 +104,6 @@ const aliMinhas = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=tokyonight&hide_border=true&background=0d1117&stroke=669bbc&ring=669bbc&fire=669bbc&currStreakLabel=fdf0d5" alt="Streak Stats"/>
 </div>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliMinhas&bg_color=0d1117&color=669bbc&line=669bbc&point=fdf0d5&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 <!-- ===================== TROPHIES ===================== -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAliMinhas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
@@ -144,17 +139,6 @@ const aliMinhas = {
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-</div>
-
-<br/>
-
-<!-- Programming Memes -->
-<div align="center">
-  <img src="https://www.testbytes.net/wp-content/uploads/2019/06/programming-memes.png" width="400px" alt="Programming Meme"/>
-  <br/><br/>
-  <img src="https://i.redd.it/mzdpk1prybn31.jpg" width="400px" alt="Dev Meme"/>
-  <br/><br/>
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*xvhKSZv4hlI0VLjcvDN_sw.jpeg" width="400px" alt="Coding Meme"/>
 </div>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
