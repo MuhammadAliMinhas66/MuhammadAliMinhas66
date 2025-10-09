@@ -1,4 +1,10 @@
-
+<!-- ===================== COPYRIGHT NOTICE ===================== -->
+<div align="center">
+  <h3>⚠️ COPYRIGHT NOTICE ⚠️</h3>
+  <p><strong>© 2024 Muhammad Ali Minhas. All Rights Reserved.</strong></p>
+  <p>Unauthorized copying, distribution, or use of this code is prohibited.</p>
+  <hr width="50%">
+</div>
 
 <!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
@@ -7,12 +13,12 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+FULL+STACK+DEVELOPER+%E2%9A%A1;BUILD.+INNOVATE.+DEPLOY.+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=003049&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+FULL+STACK+DEVELOPER+%E2%9A%A1;BUILD.+INNOVATE.+DEPLOY.+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 <!-- ===================== SUBTITLE ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=FDF0D5&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+Crafting+Seamless+User+Experiences;%E2%9C%A8+Animation+Wizard+with+GSAP+%26+Framer;%F0%9F%94%A5+Building+React+apps+faster+than+your+coffee+gets+cold;%F0%9F%8E%AF+Turning+caffeine+into+code+since+forever;%F0%9F%92%AA+Making+pixels+dance+and+APIs+cry;%F0%9F%91%80+My+code+works...+I+have+no+idea+why;%E2%9C%A8+404+Error:+Social+Life+Not+Found" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=780000&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+Crafting+Seamless+User+Experiences;%E2%9C%A8+Animation+Wizard+with+GSAP+%26+Framer;%F0%9F%94%A5+Building+React+apps+faster+than+your+coffee+gets+cold;%F0%9F%8E%AF+Turning+caffeine+into+code+since+forever;%F0%9F%92%AA+Making+pixels+dance+and+APIs+cry;%F0%9F%91%80+My+code+works...+I+have+no+idea+why;%E2%9C%A8+404+Error:+Social+Life+Not+Found" alt="Subtitle" />
 </p>
 
 <!-- ===================== ANIMATED DIVIDER ===================== -->
@@ -22,7 +28,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadAliMinhas&label=Profile%20Views&color=669bbc&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MuhammadAliMinhas?style=for-the-badge&color=669bbc&labelColor=003049" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MuhammadAliMinhas?label=Stars&style=for-the-badge&color=fdf0d5&labelColor=003049" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/MuhammadAliMinhas?style=for-the-badge&color=c1121f&labelColor=003049" alt="Stars" />
 </div>
 
 <br/>
@@ -63,12 +69,12 @@ const aliMinhas = {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=light&perline=6" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=light&perline=3" />
 </p>
 
 ### Animation Libraries
@@ -80,7 +86,7 @@ const aliMinhas = {
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light&perline=4" />
 </p>
 
 </div>
@@ -92,16 +98,28 @@ const aliMinhas = {
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=669bbc&icon_color=669bbc&text_color=fdf0d5"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=669bbc&icon_color=669bbc&text_color=fdf0d5">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=003049&icon_color=669bbc&text_color=2f2f2f">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=003049&icon_color=669bbc&text_color=2f2f2f" alt="GitHub Stats"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=tokyonight&hide_border=true&background=0d1117&stroke=669bbc&ring=669bbc&fire=669bbc&currStreakLabel=fdf0d5" alt="Streak Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=tokyonight&hide_border=true&background=0d1117&stroke=669bbc&ring=669bbc&fire=669bbc&currStreakLabel=fdf0d5">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=default&hide_border=true&stroke=003049&ring=669bbc&fire=c1121f&currStreakLabel=2f2f2f">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliMinhas&theme=default&hide_border=true&stroke=003049&ring=669bbc&fire=c1121f&currStreakLabel=2f2f2f" alt="Streak Stats"/>
+  </picture>
 </div>
 
 <!-- ===================== TROPHIES ===================== -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAliMinhas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MuhammadAliMinhas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MuhammadAliMinhas&theme=flat&no-frame=true&no-bg=true&row=1&column=7">
+    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAliMinhas&theme=flat&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  </picture>
 </div>
 
 <!-- ===================== ANIMATED DIVIDER ===================== -->
@@ -126,14 +144,22 @@ const aliMinhas = {
 ## 💬 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Quote"/>
+  </picture>
 </div>
 
 <!-- ===================== DEV HUMOR ===================== -->
 ## 😂 Dev Humor
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=default&hideBorder">
+    <img src="https://readme-jokes.vercel.app/api?theme=default&hideBorder" alt="Jokes Card" />
+  </picture>
 </div>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
@@ -178,7 +204,7 @@ const aliMinhas = {
 
 <!-- Final typing animation with Orbitron font -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=669BBC&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Coded+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;%F0%9F%92%BB+Every+line+tells+a+story;%F0%9F%94%A5+Let's+connect+and+create+magic!;%E2%AD%90+Keep+coding%2C+keep+creating!;%F0%9F%91%80+99+little+bugs+in+the+code...;%F0%9F%8E%AF+Stack+Overflow+is+my+best+friend!" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=003049&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Coded+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;%F0%9F%92%BB+Every+line+tells+a+story;%F0%9F%94%A5+Let's+connect+and+create+magic!;%E2%AD%90+Keep+coding%2C+keep+creating!;%F0%9F%91%80+99+little+bugs+in+the+code...;%F0%9F%8E%AF+Stack+Overflow+is+my+best+friend!" alt="Footer Animation" />
 </h3>
 
 <!-- ===================== COPYRIGHT FOOTER ===================== -->
@@ -187,7 +213,6 @@ const aliMinhas = {
   <hr width="50%">
   <p><strong>© 2024 Muhammad Ali Minhas. All Rights Reserved.</strong></p>
   <p><em>Unauthorized copying, distribution, or use of this code is prohibited.</em></p>
-  <p>📧 Contact: minhasvirtual@gmail.com | 🌐 Portfolio: <a href="https://spectarmartz.netlify.app/">spectarmartz.netlify.app</a></p>
 </div>
 
 <!-- Hidden fingerprint for copyright proof -->
