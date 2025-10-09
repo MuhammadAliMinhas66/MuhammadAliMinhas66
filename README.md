@@ -5,10 +5,22 @@
 
 <!-- ===================== PROFILE IMAGE WITH ANIMATED BORDER ===================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" width="200" style="border-radius: 50%; border: 4px solid #669bbc; box-shadow: 0 0 20px #669bbc, 0 0 40px #003049, 0 0 60px #669bbc;" alt="Muhammad Ali Minhas"/>
+  <svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <radialGradient id="glow" r="0.5" cx="50%" cy="50%">
+        <stop offset="0%" stop-color="#669bbc" stop-opacity="1">
+          <animate attributeName="stop-color" values="#669bbc;#003049;#669bbc" dur="3s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#003049" stop-opacity="0">
+          <animate attributeName="stop-color" values="#003049;#669bbc;#003049" dur="3s" repeatCount="indefinite" />
+        </stop>
+      </radialGradient>
+    </defs>
+    <circle cx="110" cy="110" r="100" fill="url(#glow)" />
+    <image href="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" x="10" y="10" height="200px" width="200px" clip-path="circle(50%)" />
+  </svg>
 </div>
 
-<br/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <h1 align="center">
