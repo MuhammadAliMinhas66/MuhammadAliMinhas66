@@ -5,36 +5,9 @@
 
 <!-- ===================== PROFILE IMAGE WITH ANIMATED BORDER ===================== -->
 <div align="center">
-  <div style="position: relative; width: 220px; height: 220px; display: inline-block;">
-    <svg width="220" height="220" style="position: absolute; top: 0; left: 0; z-index: 1; pointer-events: none;">
-      <defs>
-        <linearGradient id="borderGradient">
-          <stop offset="0%" stop-color="#669bbc" />
-          <stop offset="50%" stop-color="#89CFF0" />
-          <stop offset="100%" stop-color="#4FC3F7" />
-        </linearGradient>
-        <filter id="glow">
-          <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-          <feMerge>
-            <feMergeNode in="coloredBlur"/>
-            <feMergeNode in="SourceGraphic"/>
-          </feMerge>
-        </filter>
-      </defs>
-      <circle cx="110" cy="110" r="105" fill="none" stroke="url(#borderGradient)" stroke-width="5" filter="url(#glow)" stroke-dasharray="330 66" transform="rotate(0 110 110)">
-        <animateTransform
-          attributeName="transform"
-          attributeType="XML"
-          type="rotate"
-          from="0 110 110"
-          to="360 110 110"
-          dur="7s"
-          repeatCount="indefinite"/>
-      </circle>
-    </svg>
-    <img src="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" width="200" height="200" style="border-radius: 50%; position: relative; z-index: 0; display: block; margin: 10px;" alt="Muhammad Ali Minhas"/>
-    <div style="position: absolute; top: 10px; left: 10px; width: 200px; height: 200px; border-radius: 50%; background: radial-gradient(circle, rgba(102,155,188,0.3), rgba(0,48,73,0.5)); filter: blur(25px); z-index: -1;"></div>
-  </div>
+  <a href="https://github.com/MuhammadAliMinhas">
+    <img src="https://raw.githubusercontent.com/MuhammadAliMinhas66/Frag--Web--development/main/assets/Ali%20Github%20Image.jpg" width="200" height="200" style="border-radius: 50%; border: 5px solid #669bbc; box-shadow: 0 0 25px #669bbc, 0 0 50px #4FC3F7, 0 0 75px #89CFF0; animation: rotateBorder 3s linear infinite;" alt="Muhammad Ali Minhas"/>
+  </a>
 </div>
 
 <br/>
@@ -85,7 +58,7 @@ const aliMinhas = {
   },
   currentFocus: "Building interactive full-stack applications with smooth animations",
   funFact: "I can make divs dance better than I can 💃",
-  currentlyListeningTo: "Lofi beats while coding 🎵",
+  currentlyListeningTo: "Listening to Rival 🎵",
   lifePhilosophy: "Code it until it works, then never touch it again 😎"
 };
 ```
@@ -179,11 +152,11 @@ const aliMinhas = {
 
 <!-- Programming Memes -->
 <div align="center">
-  <img src="https://www.testbytes.net/wp-content/uploads/2019/06/programming-memes.png" width="400px" alt="Programming Meme"/>
+  <img src="https://i.redd.it/hprc2w86u0b91.jpg" width="450px" alt="Programming Meme"/>
   <br/><br/>
-  <img src="https://i.redd.it/mzdpk1prybn31.jpg" width="400px" alt="Dev Meme"/>
+  <img src="https://i.redd.it/gvvzje92nt591.jpg" width="450px" alt="Dev Meme"/>
   <br/><br/>
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*xvhKSZv4hlI0VLjcvDN_sw.jpeg" width="400px" alt="Coding Meme"/>
+  <img src="https://preview.redd.it/tx2oovy2e7e91.jpg?width=640&crop=smart&auto=webp&s=8b3d4e1c3c4c4d71a24e3ff6df8e56c2f8c48f7d" width="450px" alt="Coding Meme"/>
 </div>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
