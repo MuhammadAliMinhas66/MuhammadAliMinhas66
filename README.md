@@ -35,15 +35,6 @@
 <!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ===================== PROFILE VIEWS & BADGES ===================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAliMinhas&label=Profile%20Views&color=669bbc&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MuhammadAliMinhas?label=Followers&style=for-the-badge&color=669bbc&labelColor=003049" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/MuhammadAliMinhas?label=Stars&style=for-the-badge&color=fdf0d5&labelColor=003049" alt="Stars" />
-</div>
-
-<br/>
-
 <!-- ===================== ABOUT ME SECTION ===================== -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> About Me
 
