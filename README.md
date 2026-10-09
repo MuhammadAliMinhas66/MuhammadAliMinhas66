@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/MuhammadAliMinhas66">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0B1F3A,100:075985&height=170&section=header&text=Muhammad%20Ali%20Minhas&fontSize=38&fontColor=E2F3FF&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%2F%20MERN%20%2F%20.NET&descSize=14&descAlignY=65&descColor=38BDF8" width="100%" alt="Muhammad Ali Minhas - Developer Portfolio"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C2340,100:0369A1&height=190&section=header&text=MUHAMMAD%20ALI%20MINHAS&fontSize=34&fontColor=E0F2FE&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20MERN%20%7C%20.NET&descSize=14&descColor=7DD3FC&descAlignY=58" width="100%" alt="Muhammad Ali Minhas developer portfolio"/>
 
-<a href="https://www.linkedin.com/in/muhammad-ali-minhas66/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
-<a href="https://github.com/MuhammadAliMinhas66"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-<a href="mailto:minhasvirtual@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/muhammad-ali-minhas66/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/MuhammadAliMinhas66?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-161B22?style=flat-square&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="mailto:minhasvirtual@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0369A1?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+
+**Engineering useful software. Building better experiences.**
 
 </div>
 
@@ -14,111 +14,127 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-## 01 &nbsp; About Me
+## About
 
-Computer Science graduate and full-stack developer working across **MERN and .NET**.
+Computer Science graduate and full-stack developer working across the **MERN stack and .NET ecosystem**.
 
-I build web applications with a focus on useful functionality, clean interfaces, maintainable architecture, and reliable backend workflows.
+I build web applications with a focus on responsive interfaces, backend APIs, authentication, database integration, and practical business workflows.
 
 Currently working in IT at **Daewoo Express**, while developing software engineering skills and exploring local AI integrations.
 
-- Full-stack application development
-- ASP.NET Core MVC and SQL Server
-- Interactive interfaces and 3D experiences
-- APIs, authentication, and database integration
-- Lightweight, locally running AI models
-
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-## Developer Profile
+### At a glance
 
-```js
-const ali = {
-  role: "Full-Stack Developer",
-  stack: ["MERN", ".NET"],
-  frontend: ["React", "Tailwind"],
-  backend: ["Node.js", "C#"],
-  databases: ["MongoDB", "SQL Server"],
-  interests: [
-    "Interactive UI",
-    "Software Engineering",
-    "Local AI"
-  ]
-};
-```
+- **Frontend:** React, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express, C#, .NET
+- **Databases:** MongoDB, SQL Server
+- **Interests:** Interactive UI, 3D, local AI
+- **Workflow:** Git, GitHub, Visual Studio, VS Code
 
 </td>
 </tr>
 </table>
 
-## 02 &nbsp; GitHub Dashboard
+## GitHub Analytics
 
 <table>
 <tr>
 <td align="center" width="50%">
+
+### Repository Overview
+
 <a href="https://github.com/MuhammadAliMinhas66?tab=repositories">
-<img src="https://img.shields.io/badge/PUBLIC%20REPOSITORIES-EXPLORE%20PROJECTS-0B2538?style=for-the-badge&labelColor=07111F" alt="Explore public repositories"/>
+<img src="https://img.shields.io/badge/REPOSITORIES-Browse%20all-0B2538?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Browse repositories"/>
 </a>
+
+<a href="https://github.com/MuhammadAliMinhas66?tab=repositories&type=public">
+<img src="https://img.shields.io/badge/PUBLIC-View%20repositories-064E3B?style=for-the-badge&logo=github&logoColor=6EE7B7" alt="Public repositories"/>
+</a>
+
 </td>
 <td align="center" width="50%">
+
+### Development Stats
+
 <a href="https://github.com/MuhammadAliMinhas66">
-<img src="https://img.shields.io/badge/PRIVATE%20REPOSITORIES-AUTHENTICATED%20STATS-21183B?style=for-the-badge&labelColor=07111F" alt="Private repository statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas66&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&hide_title=false" width="100%" alt="GitHub profile statistics"/>
 </a>
+
 </td>
 </tr>
 </table>
 
+### Language Distribution
+
 <div align="center">
 
-<a href="https://github.com/MuhammadAliMinhas66">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliMinhas66&show_icons=true&hide_border=true&bg_color=07111F&title_color=38BDF8&icon_color=38BDF8&text_color=DCE8F5&rank_icon=github" width="49%" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/MuhammadAliMinhas66">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliMinhas66&layout=compact&hide_border=true&bg_color=07111F&title_color=38BDF8&text_color=DCE8F5&langs_count=6" width="49%" alt="Most used languages"/>
+<a href="https://github.com/MuhammadAliMinhas66?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliMinhas66&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" width="70%" alt="Programming languages in public repositories"/>
 </a>
 
 </div>
 
-### Commit Activity
+### Commit History
 
 <div align="center">
 
-<a href="https://github.com/MuhammadAliMinhas66">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliMinhas66&bg_color=07111F&color=DCE8F5&line=0EA5E9&point=67E8F9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution graph"/>
-</a>
-
-<a href="https://github.com/MuhammadAliMinhas66">
-<img src="https://streak-stats.demolab.com?user=MuhammadAliMinhas66&hide_border=true&background=07111F&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=DCE8F5&dates=64748B" width="75%" alt="GitHub streak statistics"/>
+<a href="https://github.com/MuhammadAliMinhas66?tab=overview">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliMinhas66&bg_color=0D1117&color=CBD5E1&line=0EA5E9&point=7DD3FC&area=true&hide_border=true&custom_title=Contribution%20History" width="100%" alt="GitHub contribution history"/>
 </a>
 
 </div>
 
-> **Accurate repository and commit counts:** The images above are public stats-service widgets, not a complete private-repository analytics system. Exact public/private totals, calendar-year commits, current-month commits, and historical monthly filtering require a GitHub Actions workflow and a separate activity page. Private repository data must never be exposed.
+<table>
+<tr>
+<td align="center" width="33%">
 
-**[Open my repositories →](https://github.com/MuhammadAliMinhas66?tab=repositories)** · **[View my contribution history →](https://github.com/MuhammadAliMinhas66?tab=overview&from=2026-01-01&to=2026-12-31)**
+**YEARLY COMMITS**
 
-## 03 &nbsp; Tech Stack
+[View contributions](https://github.com/MuhammadAliMinhas66?tab=overview)
+
+</td>
+<td align="center" width="33%">
+
+**MONTHLY COMMITS**
+
+[View activity](https://github.com/MuhammadAliMinhas66?tab=overview)
+
+</td>
+<td align="center" width="33%">
+
+**REPOSITORY COUNTS**
+
+[Browse repositories](https://github.com/MuhammadAliMinhas66?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+> Exact public and private repository totals, yearly commit counts, monthly commit counts, and a selectable month filter require a connected analytics workflow. The links above are functional navigation, not live numeric counters.
+
+## Technology Stack
 
 <div align="center">
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,threejs" alt="HTML, CSS, JavaScript, React, Redux, Tailwind CSS and Three.js"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,threejs" alt="Frontend technologies"/>
 
 **BACKEND & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mongodb,mysql" alt="Node.js, Express, .NET, C#, MongoDB and MySQL"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,mongodb,mysql" alt="Backend and database technologies"/>
 
-**TOOLS**
+**DEVELOPER TOOLS**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" alt="Git, GitHub, VS Code, Visual Studio and Postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" alt="Development tools"/>
 
 </div>
 
-## 04 &nbsp; Selected Projects
+## Selected Projects
 
 <table>
 <tr>
@@ -128,7 +144,7 @@ const ali = {
 
 Company website development and frontend implementation.
 
-<a href="https://github.com/MuhammadAliMinhas66/Spectar-Martz-LLC">View repository →</a>
+[Explore repository ↗](https://github.com/MuhammadAliMinhas66/Spectar-Martz-LLC)
 
 </td>
 <td width="50%" valign="top">
@@ -137,7 +153,7 @@ Company website development and frontend implementation.
 
 React-focused web development work.
 
-<a href="https://github.com/MuhammadAliMinhas66/Skylarks">View repository →</a>
+[Explore repository ↗](https://github.com/MuhammadAliMinhas66/Skylarks)
 
 </td>
 </tr>
@@ -148,7 +164,7 @@ React-focused web development work.
 
 Web development practice and learning.
 
-<a href="https://github.com/MuhammadAliMinhas66/Web--development">View repository →</a>
+[Explore repository ↗](https://github.com/MuhammadAliMinhas66/Web--development)
 
 </td>
 <td width="50%" valign="top">
@@ -157,51 +173,53 @@ Web development practice and learning.
 
 Web development practice from my software-house experience.
 
-<a href="https://github.com/MuhammadAliMinhas66/Frag--Web--development">View repository →</a>
+[Explore repository ↗](https://github.com/MuhammadAliMinhas66/Frag--Web--development)
 
 </td>
 </tr>
 </table>
 
-## 05 &nbsp; Activity Explorer
+## Activity & Repositories
 
 <div align="center">
 
-| Explore | Open |
-|:---|:---:|
-| Public repositories | [Browse →](https://github.com/MuhammadAliMinhas66?tab=repositories) |
-| Current-year contributions | [View →](https://github.com/MuhammadAliMinhas66?tab=overview&from=2026-01-01&to=2026-12-31) |
-| Pull requests | [Explore →](https://github.com/MuhammadAliMinhas66?tab=pulls) |
-| Issues | [Explore →](https://github.com/MuhammadAliMinhas66?tab=issues) |
+<a href="https://github.com/MuhammadAliMinhas66?tab=repositories"><img src="https://img.shields.io/badge/01-ALL%20REPOSITORIES-0B2538?style=for-the-badge&logo=github" alt="All repositories"/></a>
+
+<a href="https://github.com/MuhammadAliMinhas66?tab=projects"><img src="https://img.shields.io/badge/02-PROJECTS-172554?style=for-the-badge&logo=github" alt="Projects"/></a>
+
+<a href="https://github.com/MuhammadAliMinhas66?tab=pulls"><img src="https://img.shields.io/badge/03-PULL%20REQUESTS-164E63?style=for-the-badge&logo=github" alt="Pull requests"/></a>
+
+<a href="https://github.com/MuhammadAliMinhas66?tab=issues"><img src="https://img.shields.io/badge/04-ISSUES-1E293B?style=for-the-badge&logo=github" alt="Issues"/></a>
 
 </div>
 
-*A custom month selector with exact monthly commit totals will be available on a dedicated activity webpage.*
-
-## 06 &nbsp; Let's Connect
+## Connect
 
 <table>
 <tr>
-<td align="center" width="33%">
-<a href="https://www.linkedin.com/in/muhammad-ali-minhas66/">
-<strong>LINKEDIN</strong><br/>Professional network
-</a>
+<td align="center" width="50%">
+
+### Professional Network
+
+Connect with me on LinkedIn to discuss software development and opportunities.
+
+[Connect on LinkedIn ↗](https://www.linkedin.com/in/muhammad-ali-minhas66/)
+
 </td>
-<td align="center" width="33%">
-<a href="mailto:minhasvirtual@gmail.com">
-<strong>EMAIL</strong><br/>Get in touch
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/MuhammadAliMinhas66">
-<strong>GITHUB</strong><br/>Explore my work
-</a>
+<td align="center" width="50%">
+
+### Get in Touch
+
+Have a project, collaboration idea, or software engineering opportunity?
+
+[Send me an email ↗](mailto:minhasvirtual@gmail.com)
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:075985,50:0B1F3A,100:020617&height=65&section=footer&text=BUILD%20%2F%20LEARN%20%2F%20GROW&fontSize=16&fontColor=BAE6FD" width="100%" alt="Build Learn Grow"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0C2340,100:020617&height=100&section=footer" width="100%" alt=""/>
 
 </div>
