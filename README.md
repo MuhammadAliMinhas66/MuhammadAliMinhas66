@@ -108,8 +108,7 @@ A database-driven consignment tracking assistant for retrieving shipment records
 
 ### EVERY VISIT COUNTS.
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammadAliMinhas66.MuhammadAliMinhas66&left_color=000000&right_color=FFFFFF&left_text=PROFILE%20VISITS" alt="Profile visit counter"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=MuhammadAliMinhas66&label=PROFILE+VISITS&color=000000&style=flat-square" alt="Profile visits"/>
 
 
 
